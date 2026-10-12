@@ -1,0 +1,15 @@
+Esta carpeta contiene el ejemplo de ventas de la guía, con los cambios
+que piden los ejercicios 6 y 10, y practica.py con los diez ejercicios.
+
+Desde esta carpeta:
+    python practica.py
+    python main.py
+
+practica.py lee los clientes que hayas creado en este ejemplo. Si aún
+no hay clientes, el ejercicio 6 muestra {}. No modifica tus archivos.
+El ejercicio 2 muestra Quito como la primera ciudad con mayor frecuencia;
+Quito y Guayaquil están empatadas con dos apariciones.
+
+Para el ejercicio 10: crea un producto con stock suficiente y registra
+una venta de 12 unidades o más. Su comprobante usa el precio con descuento.
+No incluye los modelos académicos: es la práctica del ejemplo de ventas.
